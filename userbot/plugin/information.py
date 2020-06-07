@@ -55,16 +55,16 @@ async def _(event):
         dc_id = "Need a Profile Picture to check **this**"
         location = str(e)
     caption = """Extracted Userdata From HacͥҜeͣrͫ✨'s DATABASE
-ID: <code>{}</code>
-Person Name: <a href='tg://user?id={}'>{}</a>
-
-Bio: {}
-DC ID: {}
-Number of PPs: {}
-Restricted? : {}
-Verified Gey: {}
-Bot(nub): {}
-Groups in Common With This Gaandu: {}
+⚡️ID: <code>{}</code>
+⚡️NOME: <a href='tg://user?id={}'>{}</a>
+⚡️Altre Info⚡️
+⚡️Bio: {}
+⚡️ID: {}
+⚡️NUMERO DI PPs: {}
+⚡️RISTRETTO? : {}
+⚡️Gey: {}
+⚡️Bot(nub): {}
+⚡️GRUPPI IN COMUNE: {}
 """.format(
         user_id,
         user_id,

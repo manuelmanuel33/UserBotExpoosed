@@ -33,8 +33,8 @@ async def _(event):
 
         animation_chars = [
         
-            "`Connecting To Hacked Private Server...`",
-            "`Target Selected.`",
+            "`ᴛɪ sᴛᴏ ʜᴀᴄᴋᴇʀᴀɴᴅᴏ...`",
+            "`ID TROVATO, PROCEDO...`",
             "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",    
@@ -42,8 +42,8 @@ async def _(event):
             "`Hacking... 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
-            "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 69$ To` @Hack12R `Or send nudes of your GF To Remove This Hack`"
+            "`Hacking... 100%\n████████████████████████ `",
+            "`ᴀᴄᴄᴏᴜɴᴛ ʜᴀᴄᴋᴇʀᴀᴛᴏ...\n\nᴘᴀɢᴀ ᴏ ᴍᴀɴᴅᴀ ɴᴜᴅᴇs ᴀ @EXPOOSED ᴘᴇʀ ғᴀʀᴍɪ ᴜsᴄɪʀᴇ ᴅᴀʟ ᴛᴜᴏ ᴀᴄᴄᴏᴜɴᴛ!`"
         ]
 
         for i in animation_ttl:
